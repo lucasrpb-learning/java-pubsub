@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.108.1](https://www.github.com/googleapis/java-pubsub/compare/v1.108.0...v1.108.1) (2020-07-10)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.8.3 ([#282](https://www.github.com/googleapis/java-pubsub/issues/282)) ([744c268](https://www.github.com/googleapis/java-pubsub/commit/744c2687d50c79ff8556d455aab60928ab2f790c))
+
 ## [1.108.0](https://www.github.com/googleapis/java-pubsub/compare/v1.107.0...v1.108.0) (2020-07-09)
 
 
